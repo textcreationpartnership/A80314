@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confession and execution as well of the several prisoners that suffered at Tyburn on Wednesday the 17th of April 1678 At which time were executed Joseph Wright, Thomas Bateman, William Baker, Thomas Davies, William Dukes. James Crouch, and George Dogget. As also the burning of Jane Pratt in Smithfield, for clipping, washing, filing, and diminishing the Kings coyn; who was in Newgate about a year ago on suspition of the same fact. With an account of their behaviour in prison, and last speeches at the place of execution. This may be printed. Ro. L'Estrange.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80314</idno>
+            <idno type="STC">Wing C5744A</idno>
+            <idno type="STC">ESTC R205232</idno>
+            <idno type="EEBO-CITATION">99897732</idno>
+            <idno type="PROQUEST">99897732</idno>
+            <idno type="VID">135379</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80314)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135379)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2528:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confession and execution as well of the several prisoners that suffered at Tyburn on Wednesday the 17th of April 1678 At which time were executed Joseph Wright, Thomas Bateman, William Baker, Thomas Davies, William Dukes. James Crouch, and George Dogget. As also the burning of Jane Pratt in Smithfield, for clipping, washing, filing, and diminishing the Kings coyn; who was in Newgate about a year ago on suspition of the same fact. With an account of their behaviour in prison, and last speeches at the place of execution. This may be printed. Ro. L'Estrange.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "Joseph .. Davies," and "William Dukes. .. Dogget." are bracketed together on title page.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wright, Joseph, d. 1678 --  Early works to 1800.</term>
+               <term>Bateman, Thomas, d. 1678 --  Early works to 1800.</term>
+               <term>Baker, William, 1678 or 9-1733 --  Early works to 1800.</term>
+               <term>Davies, Thomas, d. 1678 --  Early works to 1800.</term>
+               <term>Dukes, William, d. 1678 --  Early works to 1800.</term>
+               <term>Crouch, James, d. 1678 --  Early works to 1800.</term>
+               <term>Dogget, George, d. 1678 --  Early works to 1800.</term>
+               <term>Pratt, Jane, d. 1678 --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135379:1" rendition="simple:additions"/>
+            <p>THE CONFESSION AND EXECUTION As well of the ſeveral Priſoners that ſuffered at TYBURN On <hi>Wedneſday</hi> the 17th of <hi>April</hi> 1678.</p>
+            <p>At which time were Executed
+<list>
+                  <item>
+                     <hi>Joſeph Wright,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Bateman,</hi>
+                  </item>
+                  <item>
+                     <hi>William Baker,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Davies,</hi>
+                  </item>
+                  <item>
+                     <hi>William Dukes.</hi>
+                  </item>
+                  <item>
+                     <hi>James Crouch,</hi> and</item>
+                  <item>
+                     <hi>George Dogget.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>As alſo of the Burning of <hi>Jane Pratt</hi> in <hi>Smithfield,</hi> for Clipping, Waſhing, Filing, and Diminiſhing the Kings Coyn; who was in Newgate about a year ago on Suſpition of the ſame Fact.</p>
+            <p>With an Account of their Behaviour in Priſon, and laſt Speeches at the place of Execution.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This may be Printed.</p>
+                        <closer>
+                           <signed>Ro. L'Eſtrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London:</hi> Printed for <hi>D. M.</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:135379:2"/>
+            <pb n="3" facs="tcp:135379:2" rendition="simple:additions"/>
+            <head>The Confeſſion and Execution of the ſeveral Priſoners Burnt and hang'd on <hi>April</hi> 17. 1678.</head>
+            <p>
+               <hi>DEath in its own nature is very af<g ref="char:EOLhyphen"/>frighting to Man, the King of Ter<g ref="char:EOLhyphen"/>rours, much more when he comes attended with ſhameful and igno<g ref="char:EOLhyphen"/>minious Circumſtances; when Perſons conſi<g ref="char:EOLhyphen"/>der that they have haſtened his approach by the Errours of their Lives, and are juſtly cut off for their Crimes. Oh! how ſad is it, when poor Souls are themſelves the occaſion of their being thruſt out of this World by un<g ref="char:EOLhyphen"/>timely Violence, and yet are not at all fitted or prepared for the next. If they look down to Earth, there is nothing but Juſtice and Venge<g ref="char:EOLhyphen"/>ance ready to purſue them; and if they look up to Heaven, they cannot but conclude that too pure a place for ſuch unclean Creatures to enter into, whom the Earth it ſelf would no
+<pb n="4" facs="tcp:135379:3"/> longer entertain. Yet ſo lamentably do the Deluſions of Satan, and Witchcrafts of Sin, blinde the eyes of theſe Malefactors, that they rarely reflect on theſe things till it be too late; nor will be warned by the frequent Examples of their wretched Fellow. Criminals, to leave off their wicked Courſes, till they are precipi<g ref="char:EOLhyphen"/>tated into the ſame Gulf of Miſery.</hi>
+            </p>
+            <p>THe firſt that we ſhall give the World an Account of, was one <hi>James,</hi> otherwiſe calling himſelf <hi>Maddum,</hi> but as he ac<g ref="char:EOLhyphen"/>knowledged his true name was <hi>Joſeph Wright.</hi> Under theſe ſeveral Denominations he had committed abundance of villanous Pranks, and thoſe above the ordinary rank: for it was juſtified before him in Court, That he and his Gang had ruined many Families, having ſtolen above Forty Horſes; and hireing Grounds near <hi>London,</hi> ſtockt the ſame with Fourſcore ſtolen Sheep at a time, and above Twenty Cattel: and in this manner drove a kind of Trade for a long time together; upon all which he was lookt up<g ref="char:EOLhyphen"/>on as a perſon excluded from Mercy. The par<g ref="char:EOLhyphen"/>ticular Crimes of which he was now Convicted, and for which he ſuffer'd, were for ſtealing a brown Mare out of a Country-mans Stable, and breaking open an houſe and taking away four Flitches of Bacon and a Fowling-piece, which was taken with him.</p>
+            <p>
+               <hi>Thomas Davies</hi> was Executed for robbing his</p>
+            <pb n="5" facs="tcp:135379:3" rendition="simple:additions"/>
+            <p>Maſter of a Watch, and Moneys, to the value of Fifty pounds and upwards.</p>
+            <p>The next we ſhall ſpeak of, was one <hi>James Crouch</hi> a perſon that had but one hand, yet that doubled to do Miſchief: for he had already been more than once burnt in that ſingle hand, yet would take no warning; being now Condemned for that moſt abominable practice of the Foot pad, Knocking a man down with a piece of Iron (pro<g ref="char:EOLhyphen"/>duced in Court) in <hi>Bunhill fields.</hi> At the Bar he behaved himſelf very inſolently; and took too little regard of all the good Chriſtian Admo<g ref="char:EOLhyphen"/>nition given him afterwards by godly Miniſters and others that came to viſit him.</p>
+            <p>
+               <hi>George Dogget</hi> was Executed upon his Con<g ref="char:EOLhyphen"/>demnation the laſt Seſſions before this. His Crime was picking a Watch out of a Gentlemans pocket, and that even at Church. He had long and notoriouſly been concern'd in <hi>Fending,</hi> that is, as thoſe Helliſh Linguiſts underſtand the Can<g ref="char:EOLhyphen"/>ting word, receiving and putting off ſtolen Goods.</p>
+            <p>
+               <hi>Thomas Bateman</hi> ſuffered the ſame day for breaking an houſe in <hi>Perpool-lane;</hi> having been burnt in the hand before for a Robbery in the <hi>Temple.</hi> And <hi>William Baker</hi> for robbing a Gen<g ref="char:EOLhyphen"/>tleman in <hi>Hatton-garden;</hi> having likewiſe been burnt in the hand in <hi>January</hi> laſt.</p>
+            <p>As for <hi>William Dukes,</hi> though he were young in yeats, yet had he too much improved his time in ill practices, having been once before burnt in the hand, and ſeveral times in Newgate.</p>
+            <p>
+               <hi>Jane Pratt</hi> alſo ſuffer'd the terrible death of Burning at a Stake in <hi>Smithfiled,</hi> for the too fre<g ref="char:EOLhyphen"/>quent,
+<pb n="6" facs="tcp:135379:4"/> though treaſonable, practice of Clipping and diminiſhing his Majeſties Coin: The Parti<g ref="char:EOLhyphen"/>culars of her Apprehenſion and Tryal we have already given you. Upon her Condemnation ſhe begg'd time of the Court to prepare her ſelf for death; but 'twas feared, the ſame was not ſo much out of a pious penitent conſideration, as a deſigne to gain time for an opportunity of getting her Pardon.</p>
+            <p>There were great pains taken, as well by Mr. Ordinary as others, to Convince theſe poor Souls of the wickedneſs of their paſt Lives, the dange<g ref="char:EOLhyphen"/>rous condition they were in, <hi>&amp;c.</hi> and 'tis charitably hoped thoſe Admonitions had good effect on ſe<g ref="char:EOLhyphen"/>veral of them; though it muſt be acknowledged as a very great inconvenience, that all Condemned (I mean men) are kept in a Room together, where one debaucht Atheiſtical Villain, if he do not wholly divert his Fellow Convicts from minding the great concerns of their Soul's wellfare, yet he may too much diſturb their Meditation. A ſad miſchief, which would well become the conſi<g ref="char:EOLhyphen"/>deration of Auththority, out of their charitable Compaſſion towards dying men, to take notice of and regulate, by appointing each perſon Con<g ref="char:EOLhyphen"/>demned a diſtinct and ſeparate Cell, or Lodg<g ref="char:EOLhyphen"/>ing.</p>
+            <p>But this <hi>obiter</hi>—The carriage of moſt of theſe perſons after Condemnation, was outward<g ref="char:EOLhyphen"/>ly very penitent; one of the men made a large Confeſſion of the ſeveral notorious Exploits he had acted, and thoſe of almoſt all kinds;
+<pb n="7" facs="tcp:135379:4"/> as Burghlaries, Horſe ſtealings, Robberies on the High way both on Horſeback and on Foot, <hi>&amp;c.</hi> But could not be brought to detect any of his un<g ref="char:EOLhyphen"/>taken Confederates. Another pretended to do great things by way of Diſcovery in that kinde; but at laſt, being either unable or nowilling to make it appear, ſuffered with the reſt. 'Tis no unneceſſary or uſeleſs Conſideration, becauſe 'tis but what one of theſe took notice of in diſcourſe to ſome Friends, <hi>viz.</hi> To obſerve how theſe men. who abroad and at liberty were bold e<g ref="char:EOLhyphen"/>nough to invade any mans Propriety, or ſet upon his Perſon; yet with how much Terrour (I ſay) they appeared at the Bar, their hands tr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mbled whilſt they were lift up, their Lips quaking whilſt they Plead Not Guilty.</p>
+            <p>Their Countenance condemn'd them before the J<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dge, and their fears were ready to execute them before the Hangman: yet theſe Judges are but men that muſt ſoon die themſelves; that Sen<g ref="char:EOLhyphen"/>tence of Death they can pronounce, is already paſs'd by Nature upon the moſt Innocent. The Act of Death is but Momentary; who knows whether himſelf ſhall not die more painfully than any of theſe Malefactors? But with what horror ſhall the guilty Soul ſtand, O God, before thy dreadful Tribunal at the laſt and General Aſſizes, where there is the preſence of an infinite Majeſty to daunt him, a fierce and clamorous Conſcience to give in Evidence againſt them, Legions of ter<g ref="char:EOLhyphen"/>rible Devils waiting to ſeize him, a Gulf of un<g ref="char:EOLhyphen"/>quenchable Fire ready to receive him! There,
+<pb n="8" facs="tcp:135379:5"/> I ſay, where the Glory of the Judge in no leſs confounding than the Cruelty of the Tormenter; where the Sentence is unavoidable and the Exe<g ref="char:EOLhyphen"/>cution everlaſting! Theſe thoughts ſhould move us all to hold privy Seſſions upon our Souls and Actions, that being acquitted by our own hearts, we may not be Condemned by this dreadful Ma<g ref="char:EOLhyphen"/>jeſty.</p>
+            <p>The woman was Executed firſt at a Stake for that purpoſe erected in the Rounds in <hi>Smithfield.</hi> She acknowledged ſhe had for a long time been a very ill Liver, and concern'd in theſe unlawful practices with others, who were before cut off by Juſtice, and yet ſhe would take no warning. She made ſad moans and lamentations as ſhe paſs'd, and likewiſe at the Stake before the Fire was kindled; but as ſoon as the ſame was lighted, the Block was put away, and ſhe ſtrangled by the Rope; with which and the ſmoak and flame, her breath was taken away, and her body ſoon after burnt to Aſhes according to Sentence. Some report that ſhe declared ſhe died in the <hi>Romiſh</hi> Faith; but that is uncertain: for a Proteſtant Miniſter went along by her, and prayed with her at the Stake; with which ſhe ſeem'd to joyn very heartily.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
